@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.head_data{
+    color: rgb(9, 5, 5) !important;
+    font-size: 19px;
+    border: 0px solid red;
+}
+.container-fluid{
+    margin: 0px;
+    padding:0px ;
+}
+.middle_part li{
+    list-style: none;
+ 
+}
+.middle_part{
+    display: flex;
+   
+}
+.middle_part li:nth-child(1){
+    color: #0f62fe;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 15px;  
+}
+.main_color{
+    color: #0f62fe;
+}
+.padding_data{
+    font-size: 18px;
+    line-height: 35px;
+}
+.middle_section{
+    background-color: black;
+}
+.india_data{
+    color: white;
+    font-size: 50px;
+}
+.state{
+    color: white;
+}
+.footerdata{
+    background: #f4f4f4;
+}
+.ouick_footer{
+    border-bottom: 3px solid #efab00;
+    display: table;
+    padding-bottom: 15px;
+}
+.diploma{
+    line-height: 35px;
+    font-size: 15px;
+}
+.tabledata ,tr ,th ,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.abput_main{
+    background: url(https://ibmadit.edunetfoundation.com/images/22.jpg);
+    background-size: cover;
+    position: relative; 
+}
+.about_program{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.abput_color{
+    width: 100%;
+    height: 100%;
+    opacity: 1.0;
+    background: #000;
+}
+.patner table{
+    width: 80%;
+    margin: auto;
+}
+.touch{
+    color: #0f62fe;
+    font-size: 2.25rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-bottom: 0px solid #efab00;
+    display: table;
+}
+.form-control1{
+    height: 60px;
+    border: 1px solid #EEF2F6;
+    box-shadow: none;
+    width: 100%;
+    background: #f4f9fc;
+    padding: 0px 0px 0px 30px;
+}
+.form2{
+    background: #f4f9fc; 
+}
+.btn1{
+    background: #0f62fe;
+    color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+}
+.btn1:hover{
+    background: #efab00;
+    color: black;
+}
+.btn_sec{
+    width: 15%;
+    margin: auto;
+    border: 0px solid red;
+}
